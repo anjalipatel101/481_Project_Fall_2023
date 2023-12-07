@@ -1,6 +1,6 @@
-#**481_Fall_2023: Artificial Intelligence Final Project**
+# 481_Fall_2023: Artificial Intelligence Final Project
 
-#**Dog/Cat Image Recognition and Breed Prediction System**
+# **Dog/Cat Image Recognition and Breed Prediction System**
 
 **Developed By: Anjali Patel, Azucena Jimenez, Khang Pham**
 
