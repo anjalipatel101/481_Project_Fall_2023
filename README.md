@@ -23,4 +23,5 @@ Dog lovers, admirers, trainers and aficionados occasionally have difficulty dist
 -  Python
 -  JavaScript
 -  HTML
+-  CSS
 -  Flask
